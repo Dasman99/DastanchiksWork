@@ -35,7 +35,9 @@
 # num2 = int(input(' '))
 # print(num1 + num2)
 
-def num(n):
-   return int(n) == float(n)
-print(num(2))
-print(num(2.2))
+# def num(n):
+#    return int(n) == float(n)
+# print(num(2))
+# print(num(2.2))
+
+print('hello, world')
